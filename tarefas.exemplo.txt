@@ -1,0 +1,10 @@
+# Formato: dia | tarefa
+# Dias aceitos: segunda, terca, quarta, quinta, sexta, sabado, domingo, todos
+# Linhas começadas com # são ignoradas
+
+todos | Revisar e-mails e newsletters
+segunda | Aulas na Facul 
+terca | Aulas na Facul 
+quarta | Curso de Cybersegurança e ...
+quinta | Estudo livre  
+sexta | Revisar a semana e sair pra relaxar
