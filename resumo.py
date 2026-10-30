@@ -7,7 +7,6 @@ PASTA = os.path.dirname(os.path.abspath(__file__))
 REGISTRO = os.path.join(PASTA, "registro.csv")
 
 # Minha Estimativa de quantos minutos a agenda pronta economiza por dia.
-# No README, deixe claro que é uma estimativa e não uma medição.
 MINUTOS_POR_DIA = 5
 
 

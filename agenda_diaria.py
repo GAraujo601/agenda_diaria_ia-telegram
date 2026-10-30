@@ -14,7 +14,8 @@ ARQUIVO = os.path.join(PASTA, "tarefas.txt")
 REGISTRO = os.path.join(PASTA, "registro.csv")
 
 
-# lista de modelos: se o primeiro falhar, tenta o próximo (opcional: adicione um segundo nome da lista do AI Studio)
+
+# lista de modelos: caso o primeiro falhe, tenta o próximo (opcional: adicione um segundo nome da lista do AI Studio)
 MODELOS_IA = ["gemini-3.8-flash"]
 TENTATIVAS = 4
 ESPERA_SEGUNDOS = 5
