@@ -23,7 +23,7 @@ tarefas.txt → filtra o dia → Gemini ordena e sugere um foco → Telegram
 
 ## Resultados
 
-[PREENCHER: cole aqui a saída do `python resumo.py` depois de uns dias de uso real]
+
 
 ## Como rodar
 
